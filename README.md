@@ -21,12 +21,21 @@ Comecei na área técnica e migrei para o contato direto com o negócio: implant
 
 ## Projetos em destaque
 
+**SGS Parts**
+Catálogo digital de peças, com busca, filtros por categoria e cotação via WhatsApp.
+https://sgsparts.com.br · https://catalogosgsparts.com.br
+
 **Ativo Interno**
 Portal interno da equipe, construído com HTML e Vercel Serverless.
 https://ativo-interno.vercel.app
 
 **ContratosGov**
 Sistema de gestão de contratos administrativos para órgãos públicos, alinhado à Lei 14.133/2021 (fiscalização, aditivos e penalidades). Projeto privado, em desenvolvimento no Grupo Negócios Públicos.
+
+## Formação
+
+- Graduado em Gestão da Tecnologia da Informação (UNIFRAN)
+- Cursando Engenharia de IA
 
 ## Estatísticas
 
