@@ -21,10 +21,6 @@ Comecei na área técnica e migrei para o contato direto com o negócio: implant
 
 ## Projetos em destaque
 
-**Athena Fiscal**
-Sistema de auditoria fiscal (FastAPI + Vue) que audita XMLs e identifica automaticamente erros de NCM, CFOP, CST, ICMS-ST e PIS/COFINS monofásico, gerando arquivos corrigidos (SPED, XML) prontos para importação em sistemas contábeis.
-https://athenafiscal.com.br
-
 **Ativo Interno**
 Portal interno da equipe, construído com HTML e Vercel Serverless.
 https://ativo-interno.vercel.app
